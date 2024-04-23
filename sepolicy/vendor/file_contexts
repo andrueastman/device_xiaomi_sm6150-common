@@ -47,6 +47,7 @@
 
 # Public libraries
 /vendor/lib64/libarcsoft_beautyshot\.so                              u:object_r:same_process_hal_file:s0
+/vendor/lib64/libarcsoft_distortion_correction\.so                   u:object_r:same_process_hal_file:s0
 /vendor/lib64/libarcsoft_dualcam_refocus\.so                         u:object_r:same_process_hal_file:s0
 /vendor/lib64/libarcsoft_dualcam_refocus_front\.so                   u:object_r:same_process_hal_file:s0
 /vendor/lib64/libarcsoft_dualcam_refocus_rear_t\.so                  u:object_r:same_process_hal_file:s0
